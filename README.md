@@ -18,11 +18,11 @@ A clone of the Zomato landing page built using HTML, CSS, and JavaScript.
 A basic calculator built with React and Vite.  
 🔗 [View Repository](https://github.com/Eswar179/calculator)
 
-🚗 Car Showroom
+###🚗 Car Showroom
 A car showroom application showcasing different car models with details and filters.
 🔗 [View Repository](https://github.com/Eswar179/carShowroom)
 
-💻 Portfolio Practice
+###💻 Portfolio Practice
 This is my portfolio showcasing my skills, past projects, and a little about myself as a developer.
 🔗 [View Repository](https://github.com/Eswar179/portfolio-practice)
 
@@ -40,9 +40,9 @@ Git & GitHub
 
 **INstructions to run the project:
 
-The Calculator App is the only project using React + Vite, and you need to use npm run dev to run it.
+The Calculator App is the only project using React + Vite, and you need to use " npm run dev "to run it.
 For the Busitron Clone, Zomato Clone, Car Showroom, and Portfolio Practice
-(and any other projects built using React, HTML, CSS, or JavaScript), you can use npm start to run them.
+(and any other projects built using React, HTML, CSS, or JavaScript), you can use " npm start " to run them.
 ---
 
 ## 📫 Let's Connect
