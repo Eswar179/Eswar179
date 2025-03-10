@@ -16,11 +16,15 @@ A clone of the Zomato landing page built using HTML, CSS, and JavaScript.
 
 ### 🧮 Calculator App
 A basic calculator built with React and Vite.  
-🔗 [View Repository](https://github.com/Eswar179/calculator-app)
+🔗 [View Repository](https://github.com/Eswar179/calculator)
+
+🚗 Car Showroom
+A car showroom application showcasing different car models with details and filters.
+🔗 [View Repository](https://github.com/Eswar179/carShowroom)
 
 ---
 
 ## 📫 Let's Connect
 - 📧 Email: eswarnethala1@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eswar-nethala-cse2022)
 
