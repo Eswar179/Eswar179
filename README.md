@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Eswar
 
-<!--
-**Eswar179/Eswar179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate web developer with experience in React, JavaScript, and building responsive, functional websites. Below are some of my projects:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🚍 Busitron Clone
+A responsive bus booking site built with React.  
+🔗 [View Repository](https://github.com/Eswar179/myWork)
+
+### 🍽️ Zomato Clone
+A clone of the Zomato landing page built using HTML, CSS, and JavaScript.  
+🔗 [View Repository](https://github.com/Eswar179/zomato-clone)
+
+### 🧮 Calculator App
+A basic calculator built with React and Vite.  
+🔗 [View Repository](https://github.com/Eswar179/calculator-app)
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: eswarnethala1@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+
